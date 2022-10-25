@@ -1,0 +1,2 @@
+<?php
+const PATH_PART = "src" . DIRECTORY_SEPARATOR . "part" . DIRECTORY_SEPARATOR;
